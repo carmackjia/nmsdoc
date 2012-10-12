@@ -1,15 +1,17 @@
-.. nmsdoc documentation master file, created by
-   sphinx-quickstart on Tue Sep  4 11:30:47 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _index:
 
+==================================
 志愿帮文档
 ==================================
 
+.. rubric:: 志愿帮所有文档汇总。
+
+
 目录:
+=======================
 
 .. toctree::
-   :maxdepth: 2
+   events
 
 
 
