@@ -17,6 +17,10 @@
 {% endmacro %}
 
 
+{% block extrahead %}
+<link type="text/css" rel="stylesheet" href="{{ pathto('_static/comment.css', 1) }}" />
+{% endblock %}
+
 {% block content %}
     <div class="header">
         <h1 class="heading"><a href="{{ pathto('index') }}"><span>{{ shorttitle|e }}</span></a></h1>
