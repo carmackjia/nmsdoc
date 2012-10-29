@@ -11,4 +11,4 @@
 .. toctree::
    events
    majors
-
+   policy
