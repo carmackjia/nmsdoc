@@ -12,3 +12,4 @@
    events
    majors
    policy
+   major_review
