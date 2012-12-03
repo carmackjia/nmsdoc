@@ -91,6 +91,6 @@
 .. _`果壳`: http://www.guokr.com
 .. _`高考应该怎么选专业，各专业学习的内容？（考生必进，非常详尽）`: http://www.guokr.com/question/168981/
 .. _`TED`: http://www.ted.com/
-.. _`微笑背后的力量`: http://v.163.com/movie/2011/6/J/M/M778V0TTD_M779EVAJM.html
+.. _`微笑背后的隐藏力量`: http://v.163.com/movie/2011/6/J/M/M778V0TTD_M779EVAJM.html
 .. _`公开课`: http://open.163.com/
 .. _`扎克伯格谈Facebook的创业过程`: http://v.163.com/special/opencourse/facebook.html
