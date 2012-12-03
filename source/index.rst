@@ -13,3 +13,4 @@
    majors
    policy
    major_review
+   major_info_source
